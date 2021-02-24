@@ -7,7 +7,7 @@
 Sou apaixonado por criar interfaces utilizando a programação (FRONTEND-LOVER).
 
   Estou trabalhando na **Peexell**
-  Sou voluntário no **Projeto Lovelace** - http://projetolovelace.com/
+  <br/>Sou voluntário no **Projeto Lovelace** - http://projetolovelace.com/
   
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
