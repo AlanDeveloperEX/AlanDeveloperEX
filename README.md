@@ -5,8 +5,6 @@
 
 ## Hi guys!!! 👋
 I am passionate about creating interfaces using programming (FRONTEND-LOVER). Preferred language JAVASCRIPT and my preferred Framework is React.js/Next.js.
-
-  I'm working at **Webjump / Compass.UOL Group**
   
  <br/> :purple_heart: &nbsp; Looking to collaborate on Front-end projects using React
  <br/> :blush: &nbsp; I can help you with CSS/SASS/LESS Grid Layout and Flexbox
